@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.Properties.Resources.resources
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\bin\Debug\Lab07_ADONET_Connection.exe.config
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\bin\Debug\Lab07_ADONET_Connection.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\bin\Debug\Lab07_ADONET_Connection.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_AD.AA555AC1.Up2Date
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\obj\Debug\Lab07_ADONET_Connection.exe.config
