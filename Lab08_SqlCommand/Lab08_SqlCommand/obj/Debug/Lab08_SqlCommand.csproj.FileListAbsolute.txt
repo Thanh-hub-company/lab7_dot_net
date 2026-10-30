@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.Properties.Resources.resources
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\bin\Debug\Lab08_SqlCommand.exe.config
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\bin\Debug\Lab08_SqlCommand.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\bin\Debug\Lab08_SqlCommand.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_Sq.EB51177C.Up2Date
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab08_SqlCommand\Lab08_SqlCommand\obj\Debug\Lab08_SqlCommand.exe.config

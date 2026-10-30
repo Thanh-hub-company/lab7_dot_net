@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab08_sqlcommand\\lab08_sqlcommand\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab08_sqlcommand\\lab08_sqlcommand\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\database\\storedprocedures.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\database\\storedprocedures.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab08_sqlcommand\\lab08_sqlcommand\\lab08_sqlcommand.sln||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\lab08_sqlcommand.sln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\database\\script_qlsinhvien.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\database\\script_qlsinhvien.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab08_sqlcommand\\lab08_sqlcommand\\database\\sql_authentication_setup.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\database\\sql_authentication_setup.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\dataaccess\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\dataaccess\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\dataaccess\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\dataaccess\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\reports\\bai09_thamsooutput.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\reports\\bai09_thamsooutput.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\reports\\bai08_xoacoxacnhan.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\reports\\bai08_xoacoxacnhan.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\reports\\bai07_thongkediemmax.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\reports\\bai07_thongkediemmax.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\lab08_sqlcommand\\reports\\bai06_timkiem.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB8103C9-6B18-4B68-97BA-185A41E4C51D}|Lab08_SqlCommand\\Lab08_SqlCommand.csproj|solutionrelative:lab08_sqlcommand\\reports\\bai06_timkiem.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Forms\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Forms\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Forms\\FrmMain.Designer.cs",
+              "RelativeToolTip": "Lab08_SqlCommand\\Forms\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwIUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:40:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "Lab08_SqlCommand\\Forms\\FrmMain.cs",
+              "ViewState": "AgIAAA8CAAAAAAAAAAAuwDACAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:38:09.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs",
+              "RelativeToolTip": "Lab08_SqlCommand\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:17:59.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoredProcedures.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\StoredProcedures.sql",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Database\\StoredProcedures.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\StoredProcedures.sql",
+              "RelativeToolTip": "Lab08_SqlCommand\\Database\\StoredProcedures.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-29T10:03:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\App.config",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\App.config",
+              "RelativeToolTip": "Lab08_SqlCommand\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-29T10:07:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab08_SqlCommand.sln",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Lab08_SqlCommand.sln",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Lab08_SqlCommand.sln",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Lab08_SqlCommand.sln",
+              "RelativeToolTip": "Lab08_SqlCommand\\Lab08_SqlCommand.sln",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2026-10-29T10:01:36.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\DataAccess\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\DataAccess\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\DataAccess\\SqlHelper.cs",
+              "RelativeToolTip": "Lab08_SqlCommand\\DataAccess\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:04:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQL_Authentication_Setup.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\SQL_Authentication_Setup.sql",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Database\\SQL_Authentication_Setup.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\SQL_Authentication_Setup.sql",
+              "RelativeToolTip": "Lab08_SqlCommand\\Database\\SQL_Authentication_Setup.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T13:01:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Script_QLSinhVien.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\Script_QLSinhVien.sql",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Database\\Script_QLSinhVien.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Database\\Script_QLSinhVien.sql",
+              "RelativeToolTip": "Lab08_SqlCommand\\Database\\Script_QLSinhVien.sql",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-29T10:03:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\DataAccess\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\DataAccess\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\DataAccess\\DbConnectionFactory.cs",
+              "RelativeToolTip": "Lab08_SqlCommand\\DataAccess\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:03:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\README.txt",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\README.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\README.txt",
+              "RelativeToolTip": "Lab08_SqlCommand\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-29T10:07:33.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bai09_ThamSoOutput.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai09_ThamSoOutput.png",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Reports\\Bai09_ThamSoOutput.png",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai09_ThamSoOutput.png",
+              "RelativeToolTip": "Lab08_SqlCommand\\Reports\\Bai09_ThamSoOutput.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-29T10:06:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai08_XoaCoXacNhan.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai08_XoaCoXacNhan.png",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Reports\\Bai08_XoaCoXacNhan.png",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai08_XoaCoXacNhan.png",
+              "RelativeToolTip": "Lab08_SqlCommand\\Reports\\Bai08_XoaCoXacNhan.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-29T10:06:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bai07_ThongKeDiemMax.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai07_ThongKeDiemMax.png",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Reports\\Bai07_ThongKeDiemMax.png",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai07_ThongKeDiemMax.png",
+              "RelativeToolTip": "Lab08_SqlCommand\\Reports\\Bai07_ThongKeDiemMax.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-29T10:05:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bai06_TimKiem.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai06_TimKiem.png",
+              "RelativeDocumentMoniker": "Lab08_SqlCommand\\Reports\\Bai06_TimKiem.png",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Reports\\Bai06_TimKiem.png",
+              "RelativeToolTip": "Lab08_SqlCommand\\Reports\\Bai06_TimKiem.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-29T10:05:43.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
