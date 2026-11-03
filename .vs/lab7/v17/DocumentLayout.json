@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config",
+              "RelativeDocumentMoniker": "Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config",
+              "RelativeToolTip": "Lab09_DataReaderSearch\\Lab09_DataReaderSearch\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-31T10:20:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs",
               "RelativeDocumentMoniker": "Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Lab08_SqlCommand\\Lab08_SqlCommand\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T10:39:56.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T10:39:56.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Form1.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Form1.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T12:40:10.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T12:40:10.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "tasks.vs.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\.vs\\tasks.vs.json",
               "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
@@ -72,8 +87,7 @@
               "RelativeToolTip": ".vs\\tasks.vs.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-29T11:01:41.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T11:01:41.112Z"
             },
             {
               "$type": "Document",
@@ -83,7 +97,7 @@
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
               "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T10:39:24.856Z",
               "EditorCaption": ""

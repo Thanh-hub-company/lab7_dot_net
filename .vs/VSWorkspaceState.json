@@ -3,14 +3,14 @@
     "",
     "\\Lab07_ADONET_Connection",
     "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Database",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Documentation",
     "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\NewFolder1",
     "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\obj",
     "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Properties",
-    "\\Lab08_SqlCommand",
-    "\\Lab08_SqlCommand\\Lab08_SqlCommand"
+    "\\Lab08_SqlCommand\\Lab08_SqlCommand",
+    "\\Lab09_DataReaderSearch",
+    "\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch",
+    "\\Lab09_DataReaderSearch\\packages"
   ],
-  "SelectedNode": "\\Lab08_SqlCommand\\Lab08_SqlCommand\\Lab08_SqlCommand.sln",
+  "SelectedNode": "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Properties",
   "PreviewInSolutionExplorer": false
 }
