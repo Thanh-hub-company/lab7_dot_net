@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<QLSinhVien>
+  <xs:schema id="QLSinhVien" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="QLSinhVien" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Khoa">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaKhoa" type="xs:string" minOccurs="0" />
+                <xs:element name="TenKhoa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="SinhVien">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaSV" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTen" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="GioiTinh" type="xs:boolean" minOccurs="0" />
+                <xs:element name="MaKhoa" type="xs:string" minOccurs="0" />
+                <xs:element name="DiemTB" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1">
+        <xs:selector xpath=".//Khoa" />
+        <xs:field xpath="MaKhoa" />
+      </xs:unique>
+      <xs:keyref name="FK_Khoa_SinhVien" refer="Constraint1">
+        <xs:selector xpath=".//SinhVien" />
+        <xs:field xpath="MaKhoa" />
+      </xs:keyref>
+    </xs:element>
+  </xs:schema>
+  <Khoa>
+    <MaKhoa>OTO</MaKhoa>
+    <TenKhoa>Công nghệ kỹ thuật ô tô</TenKhoa>
+  </Khoa>
+  <Khoa>
+    <MaKhoa>CNTT</MaKhoa>
+    <TenKhoa>Công nghệ thông tin</TenKhoa>
+  </Khoa>
+  <Khoa>
+    <MaKhoa>KT</MaKhoa>
+    <TenKhoa>Kinh tế</TenKhoa>
+  </Khoa>
+  <Khoa>
+    <MaKhoa>NNA</MaKhoa>
+    <TenKhoa>Ngôn ngữ Anh</TenKhoa>
+  </Khoa>
+  <Khoa>
+    <MaKhoa>QTKD</MaKhoa>
+    <TenKhoa>Quản trị kinh doanh</TenKhoa>
+  </Khoa>
+  <SinhVien>
+    <MaSV>SV001</MaSV>
+    <HoTen>Nguyễn Văn An</HoTen>
+    <NgaySinh>2005-02-15T00:00:00+07:00</NgaySinh>
+    <GioiTinh>true</GioiTinh>
+    <MaKhoa>CNTT</MaKhoa>
+    <DiemTB>8.20</DiemTB>
+    <Email>an@eaut.edu.vn</Email>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV002</MaSV>
+    <HoTen>Trần Thị Bình</HoTen>
+    <NgaySinh>2005-07-21T00:00:00+07:00</NgaySinh>
+    <GioiTinh>false</GioiTinh>
+    <MaKhoa>CNTT</MaKhoa>
+    <DiemTB>7.40</DiemTB>
+    <Email>binh@eaut.edu.vn</Email>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV003</MaSV>
+    <HoTen>Lê Văn Cường</HoTen>
+    <NgaySinh>2004-12-03T00:00:00+07:00</NgaySinh>
+    <GioiTinh>true</GioiTinh>
+    <MaKhoa>OTO</MaKhoa>
+    <DiemTB>6.80</DiemTB>
+  </SinhVien>
+</QLSinhVien>

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\bin\Debug\Lab10_DisconnectedData.exe.config
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\bin\Debug\Lab10_DisconnectedData.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\bin\Debug\Lab10_DisconnectedData.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.Properties.Resources.resources
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.exe
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab10_DisconnectedData\Lab10_DisconnectedData\obj\Debug\Lab10_DisconnectedData.exe.config

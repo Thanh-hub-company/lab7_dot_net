@@ -21,7 +21,7 @@ namespace Lab07_ADONET_Connection
                 Application.Run(lab7Form);
             }
 
-            // Sau khi đóng Lab 7, chạy Lab 8 và Lab 9.
+            // Sau khi đóng Lab 7, chạy tiếp Lab 8, Lab 9 và Lab 10.
             string rootPath = GetRootPath();
 
             string lab8Path = Path.Combine(
@@ -40,8 +40,17 @@ namespace Lab07_ADONET_Connection
                 "Debug",
                 "Lab09_DataReaderSearch.exe");
 
+            string lab10Path = Path.Combine(
+                rootPath,
+                "Lab10_DisconnectedData",
+                "Lab10_DisconnectedData",
+                "bin",
+                "Debug",
+                "Lab10_DisconnectedData.exe");
+
             StartProgram(lab8Path, "Lab 8");
             StartProgram(lab9Path, "Lab 9");
+            StartProgram(lab10Path, "Lab 10");
         }
 
         private static string GetRootPath()

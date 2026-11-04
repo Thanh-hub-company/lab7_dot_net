@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab07_adonet_connection\\lab07_adonet_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\lab07_adonet_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|solutionrelative:lab07_adonet_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab07_adonet_connection\\lab07_adonet_connection\\lab07_adonet_connection\\gui\\frmconnectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|solutionrelative:lab07_adonet_connection\\lab07_adonet_connection\\gui\\frmconnectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73AD4349-D0FB-406E-9CE3-9C20772636D0}|Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\lab07_adonet_connection\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -102,11 +106,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConnectionTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs",
+              "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs [Design]",
+              "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:18:30.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
@@ -116,14 +136,14 @@
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
               "RelativeToolTip": "Lab07_ADONET_Connection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T10:35:40.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DbConnectionFactory.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DAL\\DbConnectionFactory.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DAL\\DbConnectionFactory.cs",
@@ -131,12 +151,11 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DAL\\DbConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T10:48:54.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:48:54.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConfigurationHelper.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Helpers\\ConfigurationHelper.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Helpers\\ConfigurationHelper.cs",
@@ -144,12 +163,11 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Helpers\\ConfigurationHelper.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T10:50:01.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:50:01.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmConnectionTest.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.Designer.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.Designer.cs",
@@ -157,11 +175,12 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T10:56:25.419Z"
+              "WhenOpened": "2026-10-27T10:56:25.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\App.config",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\App.config",
@@ -169,12 +188,11 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-10-27T10:43:58.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:43:58.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmConnectionTest.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\GUI\\frmConnectionTest.cs",
@@ -186,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConnectionBUS.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\BUS\\ConnectionBUS.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\BUS\\ConnectionBUS.cs",
@@ -198,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lab07_QLSinhVien.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Database\\Lab07_QLSinhVien.sql",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Database\\Lab07_QLSinhVien.sql",
@@ -206,12 +224,11 @@
               "RelativeToolTip": "Lab07_ADONET_Connection\\Module_Database\\Lab07_QLSinhVien.sql",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-10-27T10:45:44.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:45:44.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DatabaseCheckerDAL.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DAL\\DatabaseCheckerDAL.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DAL\\DatabaseCheckerDAL.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ConnectionInfoDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\ConnectionInfoDTO.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\ConnectionInfoDTO.cs",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DangKyDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\DangKyDTO.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\DangKyDTO.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HocPhanDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\HocPhanDTO.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\HocPhanDTO.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "KhoaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\KhoaDTO.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\KhoaDTO.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SinhVienDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\SinhVienDTO.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\DTO\\SinhVienDTO.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Backup_Restore.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Database\\Backup_Restore.sql",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Database\\Backup_Restore.sql",
@@ -295,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SQL_Authentication_Setup.sql",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Database\\SQL_Authentication_Setup.sql",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Database\\SQL_Authentication_Setup.sql",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Lab07_ADONET_Connection.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection.csproj",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\App.config",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\App.config",
@@ -331,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "03_Connection_Status.png",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\03_Connection_Status.png",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\03_Connection_Status.png",
@@ -343,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "02_Query_SampleData.png",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\02_Query_SampleData.png",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\02_Query_SampleData.png",
@@ -355,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "01_Database_Diagram.png",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\01_Database_Diagram.png",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Documentation\\Screenshots\\01_Database_Diagram.png",
@@ -367,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "QLSinhVien.bak",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Module_Database\\Backups\\QLSinhVien.bak",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Module_Database\\Backups\\QLSinhVien.bak",
@@ -379,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Form1.cs",
               "RelativeDocumentMoniker": "Lab07_ADONET_Connection\\Form1.cs",
