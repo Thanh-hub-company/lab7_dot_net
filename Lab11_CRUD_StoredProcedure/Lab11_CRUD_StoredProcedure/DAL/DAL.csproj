@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- Tham chiếu đến DTO -->
+	<ItemGroup>
+		<ProjectReference Include="..\DTO\DTO.csproj" />
+	</ItemGroup>
+
+	<!-- Thư viện đọc file App.config (Dành cho .NET Core / .NET 6/7/8) -->
+	<ItemGroup>
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+	</ItemGroup>
+
+</Project>

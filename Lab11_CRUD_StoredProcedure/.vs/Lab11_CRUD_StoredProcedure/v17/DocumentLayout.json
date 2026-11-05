@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dal\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dal\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dal\\khoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dal\\khoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dto\\khoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dto\\khoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dal\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dal\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dto\\dto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dto\\dto.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\gui.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\gui.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dal\\dal.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dal\\dal.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\bus\\bus.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\bus\\bus.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\frmkhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\frmkhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\gui\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\gui\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\bus\\khoabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\bus\\khoabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\database\\03_sp_khoa.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\database\\03_sp_khoa.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\database\\02_sp_sinhvien.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\database\\02_sp_sinhvien.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\database\\01_createdatabase.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\database\\01_createdatabase.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab11_crud_storedprocedure\\lab11_crud_storedprocedure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93724908-31D9-451D-9B44-9526E88EE19A}|Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure.csproj|solutionrelative:lab11_crud_storedprocedure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T10:28:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Program.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:22:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs [Design]",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:20:08.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\App.config",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\App.config",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-04T10:13:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmKhoa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.Designer.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.Designer.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:54:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\FrmKhoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:54:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.Designer.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:54:13.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\FrmSinhVien.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:53:38.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\GUI\\GUI.csproj",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\GUI\\GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T09:53:07.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KhoaBUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\KhoaBUS.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\BUS\\KhoaBUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\KhoaBUS.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\BUS\\KhoaBUS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:52:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SinhVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\SinhVienBUS.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\BUS\\SinhVienBUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\SinhVienBUS.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\BUS\\SinhVienBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:52:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BUS.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\BUS.csproj",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\BUS\\BUS.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\BUS\\BUS.csproj",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\BUS\\BUS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T09:52:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhoaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\KhoaDAL.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DAL\\KhoaDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\KhoaDAL.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DAL\\KhoaDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:51:44.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\SinhVienDAL.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DAL\\SinhVienDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\SinhVienDAL.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DAL\\SinhVienDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:51:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DAL\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DbConnectionFactory.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DAL\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:51:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T09:51:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\KhoaDTO.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DTO\\KhoaDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\KhoaDTO.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DTO\\KhoaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:50:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SinhVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\SinhVienDTO.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DTO\\SinhVienDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\SinhVienDTO.cs",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DTO\\SinhVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:50:30.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\DTO\\DTO.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\DTO\\DTO.csproj",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\DTO\\DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T09:50:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "03_sp_Khoa.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\03_sp_Khoa.sql",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\Database\\03_sp_Khoa.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\03_sp_Khoa.sql",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\Database\\03_sp_Khoa.sql",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-04T09:49:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "02_sp_SinhVien.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\02_sp_SinhVien.sql",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\Database\\02_sp_SinhVien.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\02_sp_SinhVien.sql",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\Database\\02_sp_SinhVien.sql",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwFMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-04T09:49:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "01_CreateDatabase.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\01_CreateDatabase.sql",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\Database\\01_CreateDatabase.sql",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Database\\01_CreateDatabase.sql",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\Database\\01_CreateDatabase.sql",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-04T09:48:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab11_CRUD_StoredProcedure\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab11_CRUD_StoredProcedure\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:46:35.55Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

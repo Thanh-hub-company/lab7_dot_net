@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net472</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- GUI chỉ tham chiếu đến BUS và DTO, KHÔNG tham chiếu trực tiếp DAL -->
+	<ItemGroup>
+		<ProjectReference Include="..\BUS\BUS.csproj" />
+		<ProjectReference Include="..\DTO\DTO.csproj" />
+	</ItemGroup>
+
+</Project>

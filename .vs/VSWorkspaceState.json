@@ -8,7 +8,8 @@
     "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Properties",
     "\\Lab09_DataReaderSearch",
     "\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch",
-    "\\Lab09_DataReaderSearch\\packages"
+    "\\Lab09_DataReaderSearch\\packages",
+    "\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure"
   ],
   "SelectedNode": "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
   "PreviewInSolutionExplorer": false

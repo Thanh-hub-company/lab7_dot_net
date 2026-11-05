@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- BUS cần gọi xuống DAL và sử dụng DTO -->
+	<ItemGroup>
+		<ProjectReference Include="..\DAL\DAL.csproj" />
+		<ProjectReference Include="..\DTO\DTO.csproj" />
+	</ItemGroup>
+
+</Project>

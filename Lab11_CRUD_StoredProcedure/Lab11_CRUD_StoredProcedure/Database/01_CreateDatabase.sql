@@ -1,0 +1,21 @@
+﻿REATE DATABASE QLSinhVien;
+GO
+USE QLSinhVien;
+GO
+
+CREATE TABLE Khoa (
+    MaKhoa VARCHAR(10) PRIMARY KEY,
+    TenKhoa NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE SinhVien (
+    MaSV VARCHAR(15) PRIMARY KEY,
+    HoTen NVARCHAR(100) NOT NULL,
+    NgaySinh DATE NOT NULL,
+    GioiTinh BIT NOT NULL,
+    MaKhoa VARCHAR(10) NOT NULL FOREIGN KEY REFERENCES Khoa(MaKhoa),
+    DiemTB DECIMAL(4,2) NOT NULL,
+    Email VARCHAR(100) NULL,
+    IsActive BIT NOT NULL DEFAULT 1 -- Phục vụ bài tập xóa mềm
+);
+GO
