@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab07_ADONET_Connection",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\NewFolder1",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\obj",
-    "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Properties",
-    "\\Lab09_DataReaderSearch",
-    "\\Lab09_DataReaderSearch\\Lab09_DataReaderSearch",
-    "\\Lab09_DataReaderSearch\\packages",
-    "\\Lab11_CRUD_StoredProcedure\\Lab11_CRUD_StoredProcedure"
+    "\\Lab12_MasterDetail_Transaction",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\bin",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\BUS",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\DAL",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\Database",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\DTO",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\GUI",
+    "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\GUI\\Forms"
   ],
-  "SelectedNode": "\\Lab07_ADONET_Connection\\Lab07_ADONET_Connection\\Program.cs",
+  "SelectedNode": "\\Lab12_MasterDetail_Transaction\\Lab12_MasterDetail_Transaction\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
