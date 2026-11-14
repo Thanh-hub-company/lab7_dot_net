@@ -1,0 +1,268 @@
+﻿16 matches found: 
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Helpers\ConfigurationHelper.cs>
+    // Lines 12 to 26
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Helpers\ConfigurationHelper.cs>
+    // Lines 10 to 28
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DAL\DbConnectionFactory.cs>
+    // Lines 33 to 43
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DAL\DbConnectionFactory.cs>
+    // Lines 11 to 33
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\ConnectionInfoDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/ConnectionInfoDTO.cs`
+```c#
+/*...*/namespace Lab07_ADONET_Connection.DTO
+{
+    public class ConnectionInfoDTO
+    {
+        public string DataSource { get; set; }
+        public string Database { get; set; }
+        public string ServerVersion { get; set; }
+        public string State { get; set; }
+        public long ResponseTimeMs { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\DangKyDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/DangKyDTO.cs`
+```c#
+/*...*/using System;
+
+namespace Lab07_ADONET_Connection.DTO
+{
+    public class DangKyDTO
+    {
+        public string MaSV { get; set; }
+        public string MaHP { get; set; }
+        public int HocKy { get; set; }
+        public DateTime NgayDangKy { get; set; }
+        public decimal? Diem { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\DangKyDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/DangKyDTO.cs`
+```c#
+/*...*/using System;
+
+namespace Lab07_ADONET_Connection.DTO
+{
+    public class DangKyDTO
+    {
+        public string MaSV { get; set; }
+        public string MaHP { get; set; }
+        public int HocKy { get; set; }
+        public DateTime NgayDangKy { get; set; }
+        public decimal? Diem { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\KhoaDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/KhoaDTO.cs`
+```c#
+/*...*/namespace Lab07_ADONET_Connection.DTO
+{
+    public class KhoaDTO
+    {
+        public string MaKhoa { get; set; }
+        public string TenKhoa { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DAL\DatabaseCheckerDAL.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DAL/DatabaseCheckerDAL.cs`
+```c#
+/*...*/using System.Data.SqlClient;
+using Lab07_ADONET_Connection.DTO;
+
+namespace Lab07_ADONET_Connection.DAL
+{
+    public class DatabaseCheckerDAL
+    {
+        public ConnectionInfoDTO GetRawConnectionStatus()
+        {
+            using (SqlConnection conn = DbConnectionFactory.Create())
+            {
+                conn.Open();
+
+                return new ConnectionInfoDTO
+                {
+                    DataSource = conn.DataSource,
+                    Database = conn.Database,
+                    ServerVersion = conn.ServerVersion,
+                    State = conn.State.ToString()
+                };
+            }
+        }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Properties\AssemblyInfo.cs>
+    // Lines 27 to 33
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Module_Database\SQL_Authentication_Setup.sql>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Module_Database/SQL_Authentication_Setup.sql`
+```tsql
+﻿USE master;
+GO
+
+-- 1. Tạo Login cấp SQL Server
+IF NOT EXISTS (SELECT name FROM sys.server_principals WHERE name = 'app_student')
+BEGIN
+    CREATE LOGIN app_student WITH PASSWORD = 'Password123!', CHECK_POLICY = OFF;
+END
+GO
+
+USE QLSinhVien;
+GO
+
+-- 2. Tạo User tương ứng trong CSDL
+IF NOT EXISTS (SELECT name FROM sys.database_principals WHERE name = 'app_student')
+BEGIN
+    CREATE USER app_student FOR LOGIN app_student;
+END
+GO
+
+-- 3. Cấp quyền đọc/ghi dữ liệu
+ALTER ROLE db_datareader ADD MEMBER app_student;
+ALTER ROLE db_datawriter ADD MEMBER app_student;
+GO
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Module_Database\SQL_Authentication_Setup.sql>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Module_Database/SQL_Authentication_Setup.sql`
+```tsql
+﻿USE master;
+GO
+
+-- 1. Tạo Login cấp SQL Server
+IF NOT EXISTS (SELECT name FROM sys.server_principals WHERE name = 'app_student')
+BEGIN
+    CREATE LOGIN app_student WITH PASSWORD = 'Password123!', CHECK_POLICY = OFF;
+END
+GO
+
+USE QLSinhVien;
+GO
+
+-- 2. Tạo User tương ứng trong CSDL
+IF NOT EXISTS (SELECT name FROM sys.database_principals WHERE name = 'app_student')
+BEGIN
+    CREATE USER app_student FOR LOGIN app_student;
+END
+GO
+
+-- 3. Cấp quyền đọc/ghi dữ liệu
+ALTER ROLE db_datareader ADD MEMBER app_student;
+ALTER ROLE db_datawriter ADD MEMBER app_student;
+GO
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\SinhVienDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/SinhVienDTO.cs`
+```c#
+/*...*/using System;
+
+namespace Lab07_ADONET_Connection.DTO
+{
+    public class SinhVienDTO
+    {
+        public string MaSV { get; set; }
+        public string HoTen { get; set; }
+        public DateTime NgaySinh { get; set; }
+        public bool GioiTinh { get; set; }
+        public string MaKhoa { get; set; }
+        public decimal DiemTB { get; set; }
+        public string Email { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Lab07_ADONET_Connection\DTO\HocPhanDTO.cs>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Lab07_ADONET_Connection/DTO/HocPhanDTO.cs`
+```c#
+/*...*/namespace Lab07_ADONET_Connection.DTO
+{
+    public class HocPhanDTO
+    {
+        public string MaHP { get; set; }
+        public string TenHP { get; set; }
+        public int SoTinChi { get; set; }
+    }
+}
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Module_Database\Backup_Restore.sql>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Module_Database/Backup_Restore.sql`
+```tsql
+﻿USE master;
+GO
+
+-- 1. Sao lưu CSDL
+BACKUP DATABASE QLSinhVien
+TO DISK = 'C:\Backup\QLSinhVien.bak'
+WITH FORMAT, MEDIANAME = 'QLSinhVien_Backup', NAME = 'Full Backup of QLSinhVien';
+GO
+
+-- 2. Xóa thử bản ghi để kiểm tra Restore
+USE QLSinhVien;
+GO
+DELETE FROM SinhVien WHERE MaSV = 'SV010';
+GO
+
+-- 3. Phục hồi CSDL
+USE master;
+GO
+ALTER DATABASE QLSinhVien SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+
+RESTORE DATABASE QLSinhVien
+FROM DISK = 'C:\Backup\QLSinhVien.bak'
+WITH REPLACE;
+GO
+
+ALTER DATABASE QLSinhVien SET MULTI_USER;
+GO
+```
+</match>
+<match path=C:\Users\Admin\Documents\Hoc_dot_net\lab7\Lab07_ADONET_Connection\Lab07_ADONET_Connection\Module_Database\Backup_Restore.sql>
+    File: `Lab07_ADONET_Connection/Lab07_ADONET_Connection/Module_Database/Backup_Restore.sql`
+```tsql
+﻿USE master;
+GO
+
+-- 1. Sao lưu CSDL
+BACKUP DATABASE QLSinhVien
+TO DISK = 'C:\Backup\QLSinhVien.bak'
+WITH FORMAT, MEDIANAME = 'QLSinhVien_Backup', NAME = 'Full Backup of QLSinhVien';
+GO
+
+-- 2. Xóa thử bản ghi để kiểm tra Restore
+USE QLSinhVien;
+GO
+DELETE FROM SinhVien WHERE MaSV = 'SV010';
+GO
+
+-- 3. Phục hồi CSDL
+USE master;
+GO
+ALTER DATABASE QLSinhVien SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+
+RESTORE DATABASE QLSinhVien
+FROM DISK = 'C:\Backup\QLSinhVien.bak'
+WITH REPLACE;
+GO
+
+ALTER DATABASE QLSinhVien SET MULTI_USER;
+GO
+```
+</match>

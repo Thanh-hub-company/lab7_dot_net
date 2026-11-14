@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\gui\\frmsinhvien.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\gui\\frmsinhvien.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|c:\\users\\admin\\documents\\hoc_dot_net\\lab7\\lab15ql_phanquyenadmin\\lab15ql_phanquyenadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\dal\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\dal\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\common\\appconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\common\\appconfighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\common\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\common\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\gui\\helpers\\uiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\gui\\helpers\\uiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\bus\\validators\\sinhvienvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\bus\\validators\\sinhvienvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\common\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\common\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\common\\configsecurityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\common\\configsecurityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\gui\\frmpreflightcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\gui\\frmpreflightcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\logs\\archive_yyyymmdd_hhmmss.zip||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\logs\\archive_yyyymmdd_hhmmss.zip||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\logs\\yyyymmdd.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\logs\\yyyymmdd.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15ql_phanquyenadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B876AC31-3DE7-45E1-9441-EBBAA10F336A}|lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin.csproj|solutionrelative:lab15ql_phanquyenadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Program.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Program.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:47:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\FrmSinhVien.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\GUI\\FrmSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\FrmSinhVien.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\GUI\\FrmSinhVien.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3IAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:30:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\Logger.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Common\\Logger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\Logger.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Common\\Logger.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAMwJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:36:30.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Common\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\ValidationResult.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Common\\ValidationResult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:36:17.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppConfigHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\AppConfigHelper.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Common\\AppConfigHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\AppConfigHelper.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Common\\AppConfigHelper.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:36:39.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\BUS\\SinhVienBUS.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\BUS\\SinhVienBUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\BUS\\SinhVienBUS.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\BUS\\SinhVienBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:33:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\DAL\\SinhVienDAL.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\DAL\\SinhVienDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\DAL\\SinhVienDAL.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\DAL\\SinhVienDAL.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:34:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UiExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\Helpers\\UiExceptionHandler.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\GUI\\Helpers\\UiExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\Helpers\\UiExceptionHandler.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\GUI\\Helpers\\UiExceptionHandler.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:33:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\App.config",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\App.config",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAABBwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-14T09:48:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVienValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\BUS\\Validators\\SinhVienValidator.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\BUS\\Validators\\SinhVienValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\BUS\\Validators\\SinhVienValidator.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\BUS\\Validators\\SinhVienValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:34:26.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\BusinessException.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Common\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\BusinessException.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Common\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:36:07.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigSecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\ConfigSecurityHelper.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Common\\ConfigSecurityHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Common\\ConfigSecurityHelper.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Common\\ConfigSecurityHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:36:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPreFlightCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\FrmPreFlightCheck.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\GUI\\FrmPreFlightCheck.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\GUI\\FrmPreFlightCheck.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\GUI\\FrmPreFlightCheck.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAswHYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:32:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SinhVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\DTO\\SinhVienDTO.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\DTO\\SinhVienDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\DTO\\SinhVienDTO.cs",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\DTO\\SinhVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:35:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "archive_yyyyMMdd_HHmmss.zip",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Logs\\archive_yyyyMMdd_HHmmss.zip",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Logs\\archive_yyyyMMdd_HHmmss.zip",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Logs\\archive_yyyyMMdd_HHmmss.zip",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Logs\\archive_yyyyMMdd_HHmmss.zip",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T09:37:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "yyyyMMdd.log",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Logs\\yyyyMMdd.log",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Logs\\yyyyMMdd.log",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Logs\\yyyyMMdd.log",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Logs\\yyyyMMdd.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADNSURBVDhPY2SAgsry0vsMDP8VYHzcgPHBn38Mgd3d3RfQZRj\u002B///PCGNXlpf8b2xuQ1WABdTXVjFwcnJ\u002B\u002BPz1hyM2Q5nQBYgBCYnJArzcHPtLS0sN0OXIMlBCUgqnoVgNPHXqFE4MA7gMZYGrQAJmZmboQnBw9PABhvraKmQhARYmhv0MDAyCyIIMleUl/3/9\u002BkUWriwv\u002BQ8zB6sLkb2GD\u002BDzCdVciDVSKAGjXoaAUS/jBEPTy0gldvF9BgZGIqoAbOD/g/bOXkUGBgYGAOzmdjI5kqngAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-11-14T09:37:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Form1.cs",
+              "RelativeDocumentMoniker": "lab15QL_Phanquyenadmin\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Hoc_dot_net\\lab7\\lab15QL_Phanquyenadmin\\lab15QL_Phanquyenadmin\\Form1.cs [Design]",
+              "RelativeToolTip": "lab15QL_Phanquyenadmin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T09:27:24.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

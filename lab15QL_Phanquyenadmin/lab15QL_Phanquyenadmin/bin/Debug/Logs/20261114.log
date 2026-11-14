@@ -1,0 +1,92 @@
+﻿2026-11-14 16:54:40.090 | INFO  | === Khởi động ứng dụng Quản lý Sinh viên ===
+2026-11-14 16:54:44.555 | INFO  | Đã mã hóa thành công phần connectionStrings bằng provider: DataProtectionConfigurationProvider
+2026-11-14 17:06:29.839 | INFO  | === Khởi động ứng dụng Quản lý Sinh viên ===
+2026-11-14 17:06:30.289 | ERROR | Lỗi SQL tại SinhVienDAL.GetAll()
+--- Chi tiết ngoại lệ ---
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'MaLop'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at QLSinhVien.DAL.SinhVienDAL.GetAll() in C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\DAL\SinhVienDAL.cs:line 26
+ClientConnectionId:cea8cc7c-833d-4b78-96a5-fb9258d90a90
+Error Number:207,State:1,Class:16
+-------------------------
+2026-11-14 17:06:41.949 | ERROR | Lỗi SQL tại SinhVienDAL.GetAll()
+--- Chi tiết ngoại lệ ---
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'MaLop'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at QLSinhVien.DAL.SinhVienDAL.GetAll() in C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\DAL\SinhVienDAL.cs:line 26
+ClientConnectionId:cea8cc7c-833d-4b78-96a5-fb9258d90a90
+Error Number:207,State:1,Class:16
+-------------------------
+2026-11-14 17:09:09.188 | ERROR | Lỗi SQL tại SinhVienDAL.GetAll()
+--- Chi tiết ngoại lệ ---
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'MaLop'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at QLSinhVien.DAL.SinhVienDAL.GetAll() in C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\DAL\SinhVienDAL.cs:line 26
+ClientConnectionId:cea8cc7c-833d-4b78-96a5-fb9258d90a90
+Error Number:207,State:1,Class:16
+-------------------------
+2026-11-14 17:09:45.189 | ERROR | LỖI NGHIÊM TRỌNG (UI Thread Exception) [Mã sự cố: 20261114-170945]
+--- Chi tiết ngoại lệ ---
+System.InvalidOperationException: Kiểm thử ngoại lệ chưa được xử lý (Unhandled Exception).
+   at QLSinhVien.GUI.FrmSinhVien.<>c.<InitializeComponent>b__18_1(Object s, EventArgs e) in C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\GUI\FrmSinhVien.cs:line 115
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+-------------------------
+2026-11-14 17:20:38.240 | INFO  | === Khởi động ứng dụng Quản lý Sinh viên ===
+2026-11-14 17:20:45.985 | INFO  | Xuất báo cáo thành công: C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\bin\Debug\Reports\DanhSachSinhVien_20261114_172045.csv
+2026-11-14 17:21:22.919 | ERROR | LỖI NGHIÊM TRỌNG (UI Thread Exception) [Mã sự cố: 20261114-172122]
+--- Chi tiết ngoại lệ ---
+System.InvalidOperationException: Kiểm thử ngoại lệ chưa được xử lý (Unhandled Exception).
+   at QLSinhVien.GUI.FrmSinhVien.<>c.<InitializeComponent>b__18_1(Object s, EventArgs e) in C:\Users\Admin\Documents\Hoc_dot_net\lab7\lab15QL_Phanquyenadmin\lab15QL_Phanquyenadmin\GUI\FrmSinhVien.cs:line 115
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+-------------------------
